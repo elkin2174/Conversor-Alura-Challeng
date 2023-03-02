@@ -9,9 +9,6 @@ public class ClasePrimera {
 		
 		if(claveDeAceso == "Putavida") {
 			System.out.println("Lavida es triste");
-			
-		}else {
-			System.out.println("Esto es lo que quieres?");
 		}
 	}
 	
