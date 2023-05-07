@@ -78,10 +78,31 @@ public class Main {
 				String opcionTemperatura = conversorTemperatura.ElegirConvercion();
 				
 				System.out.println(opcionTemperatura);
-				if(opcionTemperatura == "Convertir de ºC a ºF") {
-					conversorTemperatura.covertirCentigradoaFahrenheit();
+				
+				//TODO cambir por swicht
+				switch(opcionTemperatura) {
+				
+					case "Convertir de ºC a ºF":
+						conversorTemperatura.covertirCentigradoAFahrenheit();
+						break;
+					case "Convertir de ºF a ºC":
+						conversorTemperatura.covertirFahrenheitACentigrado();
+						break;
+					case "Convertir de K a ºC":
+						conversorTemperatura.covertirKelvinACentigrado();
+						break;
+					case "Convertir de ºC a K":
+						conversorTemperatura.covertirCentigradoAKelvin();
+						break;
+					case "Convertir de ºF a K":
+						conversorTemperatura.covertirFahrenheitAKelvin();
+						break;
+					case "Convertir de K a ºF":
+						conversorTemperatura.covertirKelvinAFahrenheit();
+						break;
+						
 				}
-							
+				
 		}
 	
 	}			
