@@ -14,7 +14,7 @@ este aplicacion tiene la capacidad de realizar la conversion entre las divisas d
         <tr>
             <td rowspan="6">Pesos colombianos</td>
             <td rowspan="6"><====></td>
-            <td>Dolar<td>
+            <td>Dolar</td>
         </tr>
         <tr>
             <td>Euro</td>
