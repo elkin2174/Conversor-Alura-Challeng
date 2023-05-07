@@ -36,7 +36,7 @@ este aplicacion tiene la capacidad de realizar la conversion entre las divisas d
 ## :hammer:Funcionalidades del proyecto
 - `Funcionalidad 1`: realizar la conversion de pesos colombianos a distitas monedas y viceversa.
     - para esto se implemeto la clase ConverMoneda.java. en la cual se encuentran dos metodos:\n
-        -`ElegirCoversion`: Este metodo solicita al usuario mediante una ventana emergente generada con la libreria JOptionpane 
+        - `ElegirCoversion`: Este metodo solicita al usuario mediante una ventana emergente generada con la libreria JOptionpane 
                           que escoja la opcion que de desea convertir y retorna la opcion escogida para ser utilizada posteriormente.
 Para este proposito se cerarin dos Clases las cuales correspnden a la conversion de moneda y de temperatura y una tercera clase más
 que correspnde al Main de la aplicacion
