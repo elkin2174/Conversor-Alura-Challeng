@@ -4,6 +4,7 @@ import javax.swing.JOptionPane;
 
 
 public class Main {
+	
 	public static void main(String[] args) {
 		
 		
@@ -19,7 +20,7 @@ public class Main {
 		
 		if(opcionEscogida == opcionPrincipal[0]) {
 			
-			CoversorMoneda conversor = new CoversorMoneda();
+			ConversorMoneda conversor = new ConversorMoneda();
 			String opcionDeMoneda = conversor.ElegirConvercion();
 			
 			switch(opcionDeMoneda) {
@@ -72,9 +73,18 @@ public class Main {
 			
 
 			
-		}else {
-			System.out.println("Se ejecuta caso 2");
+		}else if(opcionEscogida == opcionPrincipal[1]){
+				ConversorTemperatura conversorTemperatura = new ConversorTemperatura();
+				String opcionTemperatura = conversorTemperatura.ElegirConvercion();
+				
+				System.out.println(opcionTemperatura);
+				if(opcionTemperatura == "Convertir de ºC a ºF") {
+					conversorTemperatura.covertirCentigradoaFahrenheit();
+				}
+							
 		}
 	
-}			
+	}			
+
 }
+

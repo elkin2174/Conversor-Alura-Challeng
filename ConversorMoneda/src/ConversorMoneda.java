@@ -1,7 +1,7 @@
 
 import javax.swing.JOptionPane;
 
-public class CoversorMoneda {
+public class ConversorMoneda {
 	
 	
 		public String ElegirConvercion() {
