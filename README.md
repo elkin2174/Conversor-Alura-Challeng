@@ -8,8 +8,8 @@ Este es un proyecto hecho JAVA, utilizando la libreria JOptionpanel.
 
 Este tiene la finalidad de ser una aplicacion para la conversion de divisas y de temperatura
 este aplicacion tiene la capacidad de realizar la conversion entre las divisas de:
-<p aling="center">
-    <table aling="center">
+
+    <table style="text-align:center;>
         <tr>
             <td rowspan="6">Pesos colombianos</td>
             <td rowspan="6"><====></td>
@@ -28,6 +28,5 @@ este aplicacion tiene la capacidad de realizar la conversion entre las divisas d
             <td>Won</td>
         </tr>
     </table>
-</p> 
 
       
