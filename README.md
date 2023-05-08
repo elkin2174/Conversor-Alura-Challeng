@@ -51,14 +51,14 @@ Este proyecto cuenta con dos fuciones principales la primera de para convertir m
     
 ## :wrench: Tecnologias Utilizadas:
     
-    * JAVA.
-    * JOptionpane.
-    * Eclipse.
+* JAVA.
+* JOptionpane.
+* Eclipse.
     
 ## :curly_haired_man: Autores:
-    
-    * [Elkin Tovar](https://github.com/elkin2174)
-    * [Victor Realpe](https://github.com/TORVIICT)
+
+* [Elkin Tovar](https://github.com/elkin2174).[](url)
+* [Victor Realpe](https://github.com/TORVIICT)
     
     
 
