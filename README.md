@@ -12,7 +12,7 @@ esta aplicacion tiene la capacidad de realizar la conversion entre las divisas d
 <div aling="center">   
     <table>
         <tr>
-            <td rowspan="6">Pesos colombianos</td>
+            <td rowspan="6">Pesos Colombianos</td>
             <td rowspan="6"><====></td>
             <td>Dolar</td>
         </tr>
@@ -36,15 +36,15 @@ esta aplicacion tiene la capacidad de realizar la conversion entre las divisas d
 ## :hammer:Funcionalidades del proyecto
     
 Este proyecto cuenta con dos fuciones principales la primera de para convertir moneda y la segunda para convertir temperatura.
-- `Funcionalidad 1`: realizar la conversion de pesos colombianos a distitas monedas y viceversa.
-    - para esto se implemeto la clase ConverMoneda.java. en la cual se encuentran dos metodos:
-        - `ElegirCoversion`: Este metodo solicita al usuario mediante una ventana emergente generada con la libreria JOptionpane 
-                             que escoja la opcion que de desea convertir y retorna la opcion escogida para ser utilizada posteriormente.
-        - `convertir`: la cual contiene toda la logica para realizar la conversion, pedir la cantidad de moneda y realizar la convercion.
+- `Funcionalidad 1`: Realizar la conversion de pesos colombianos a distintas monedas y viceversa.
+    - Para esto se implementó la clase ConverMoneda.java. en la cual se encuentran dos metodos:
+        - `ElegirCoversion`: Este método solicita al usuario mediante una ventana emergente generada con la libreria JOptionpane 
+                             que escoja la opcion que se desea convertir y retorna la opcion escogida para ser utilizada posteriormente.
+        - `convertir`: La cual contiene toda la logica para realizar la conversion, pedir la cantidad de moneda y realizar la convercion.
 - `Funcionalidad 2`: Realizar la conversión de temperatura.
-    - para esto cuaenta con algunos metodos:
-      - `ElegirCoversion`: al igual que la clase para convertir moneda, este solicita al usuria la conversion a realizar.
-      - `convertiXAY`: En este caso se implemetaron varios metodos, uno para cada conversion. estos utilizan la logica para convertir un
+    - Para esto cuenta con algunos metodos:
+      - `ElegirCoversion`: Al igual que la clase para convertir moneda, este solicita al usuario la conversion a ejecutar.
+      - `convertiXAY`: En este caso se implementaron varios metodos, uno para cada conversion. Estos utilizan la logica para convertir la
                        temperatura insertada y devolver su equivalente en la otra temperatura deseada.
 
 
@@ -57,8 +57,8 @@ Este proyecto cuenta con dos fuciones principales la primera de para convertir m
     
 ## :curly_haired_man: Autores:
 
-* [Elkin Tovar](https://github.com/elkin2174).[](url)
-* [Victor Realpe](https://github.com/TORVIICT)
+* [Elkin Tovar](https://github.com/elkin2174).
+* [Victor Realpe](https://github.com/TORVIICT).
     
     
 
