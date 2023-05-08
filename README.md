@@ -48,7 +48,15 @@ Este proyecto cuenta con dos fuciones principales la primera de para convertir m
                        temperatura insertada y devolver su equivalente en la otra temperatura deseada.
 
     
-
+##:wrench: Tecnologias Utilizadas
+    -JAVA.
+    -JOptionpane.
+    -Eclipse.
+    
+##:curly_haired_man: Autores
+    - [Elkin Tovar](https://github.com/elkin2174)
+    - [Victor Realpe](https://github.com/TORVIICT)
+    
     
 
 
